@@ -1,4 +1,8 @@
 ## <div align="center">Hello there! I'm Drew!</div>
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=buchwasa&show_icons=true&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buchwasa)
+
 ### About Me
 I am a Torah Observant Christian, who likes Star Wars. I am presently enrolled in college to get my Associate's Degree in Information Technology. I am experienced in PHP, Java, JavaScript, Python, and HTML + CSS. I am working on learning Rust, Go, and C#.<br><br>
 <img align="center" src="https://github.com/buchwasa/buchwasa/blob/master/you-were-my-brother-anakin.gif">
