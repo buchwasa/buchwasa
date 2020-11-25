@@ -1,6 +1,6 @@
 ## <div align="center">Hello there! I'm Drew!</div>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=buchwasa&show_icons=true&count_private=true&hide_title=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=buchwasa&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buchwasa&layout=compact)
 
 ### About Me
