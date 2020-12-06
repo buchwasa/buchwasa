@@ -13,6 +13,3 @@ Presently, I am learning Rust and Typescript with the intention to learn C# and 
 - **[Crafting Dead Modpack](http://www.craftingdead.com/)** as a modpack developer from June 2018 - August 2018.
 - **[NetherGames](https://ngmc.co/)** as a plugin developer from April 2020 - present.
 - **[Leet](https://leet.cc/)** as a plugin developer from December 2019 - present.
-
-### My Week in Code
-![Week in Code](https://github-readme-stats.vercel.app/api/wakatime?username=buchwasa)
