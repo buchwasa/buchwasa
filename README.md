@@ -25,7 +25,7 @@ I am a student at the University of Cincinnati, set on track to get my Associate
 - **PHP** - 4 years. I have created and maintained plugins for a Minecraft: Bedrock server software known as [PocketMine](https://pmmp.io).
 As of recently, I have contributed to the [PocketMine](https://pmmp.io) and [Pi-Hole](https://pi-hole.net/) organizations, adding the code analysis tool known as [PHPStan](https://phpstan.org/) with GitHub Actions.
 - **Rust** - Less than a year. At the present time I am still learning about Rust, but I am working with it in a project called [Limonite](https://github.com/buchwasa/Limonite) that implements the RakNet protocol.
-- **TypeScript** - Less than a year. As of right now, I am learning TypeScript, using it with a project called [Discord2Signal](https://github.com/buchwasa/Discord2Signal)
+- **TypeScript** - Less than a year. As of right now, I am learning TypeScript, using it with a project called [Discord2Signal](https://github.com/buchwasa/Discord2Signal).
 
 ### Other Skills
 Linux, MySQL, MSSQL, and Git.
