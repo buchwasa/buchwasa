@@ -11,8 +11,8 @@ I am a student at the University of Cincinnati, set on track to get my Associate
   - At Crafting Dead, my task was to update the codebase, using Java 7.
 - **[Leet](https://leet.cc/)** as a plugin developer from December 2019 - February 2021.
   - At Leet, my task was to update and create plugins used for Leet's servers, using PHP.
-- **[Lifeboat](https://lbsg.net/)** as a plugin developer from Febrary 2021 - present.
-  - At Lifeboat, my current job is to create and maintain plugins, using PHP.
+- **[Lifeboat](https://lbsg.net/)** as a plugin developer from Febrary 2021 - May 2021.
+  - At Lifeboat, my job was to create and maintain plugins, using PHP.
 - **[LynnDigital](https://lynndigital.com)** as a website developer, throughout 2017 and 2018.
   - At LynnDigital, my task was to create and update websites for users, using PHP 7, HTML5, and CSS 3.
 - **[NetherGames](https://ngmc.co/)** as a plugin developer from April 2020 - present.
